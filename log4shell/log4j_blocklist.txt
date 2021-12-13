@@ -16,6 +16,7 @@ bingsearchlib.com
 canarytokens.com
 .*\.kryptoslogic-cve-2021-44228\.com
 kryptoslogic-cve-2021-44228.com
+http80path.kryptoslogic-cve-2021-44228.com
 dnslog.cn
 .*\.dnslog\.cn
 world443.log4j.binaryedge.io
