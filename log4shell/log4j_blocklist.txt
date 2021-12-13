@@ -19,3 +19,7 @@ kryptoslogic-cve-2021-44228.com
 dnslog.cn
 .*\.dnslog\.cn
 world443.log4j.binaryedge.io
+requestbin.net
+.*\.requestbin\.net
+rce.ee
+.*\.rce.ee
