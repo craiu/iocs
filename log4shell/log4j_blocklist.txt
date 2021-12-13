@@ -24,4 +24,6 @@ world80.log4j.binaryedge.io
 requestbin.net
 .*\.requestbin\.net
 rce.ee
-.*\.rce.ee
+.*\.rce\.ee
+ceye.io
+.*\.ceye\.io
