@@ -1,0 +1,10 @@
+# List of hosts used in Log4shell (CVE-2021-44228) exploitation attempts
+# contact: mobiletrackers at protonmail.com
+pwn.af
+leakix.net
+interactsh.com
+interact.sh
+burpcollaborator.net
+bingsearchlib.com
+canarytokens.com
+kryptoslogic-cve-2021-44228.com
