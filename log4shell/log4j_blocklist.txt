@@ -27,3 +27,4 @@ rce.ee
 .*\.rce\.ee
 ceye.io
 .*\.ceye\.io
+log4shell.huntress.com
