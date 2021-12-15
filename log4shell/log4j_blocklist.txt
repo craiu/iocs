@@ -28,3 +28,5 @@ rce.ee
 ceye.io
 .*\.ceye\.io
 log4shell.huntress.com
+#C2 for cryptominers:
+bernais.axfor.com
