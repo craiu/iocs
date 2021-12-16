@@ -2,35 +2,25 @@
 # Joint work with @yt0ng - see https://gist.github.com/yt0ng/b933d0c8ce1076fa74bd31cbecedb884
 # @craiu - github.com/craiu
 pwn.af
-.*\.pwn\.af
-.*\.leakix\.net
 leakix.net
-.*\.interactsh\.com
 interactsh.com
-.*\.interact\.sh
 interact.sh
-.*\.burpcollaborator\.net
 burpcollaborator.net
-.*\.bingsearchlib\.com
 bingsearchlib.com
-.*\.canarytokens\.com
 canarytokens.com
-.*\.kryptoslogic-cve-2021-44228\.com
 kryptoslogic-cve-2021-44228.com
 http80path.kryptoslogic-cve-2021-44228.com
 dnslog.cn
-.*\.dnslog\.cn
 world443.log4j.binaryedge.io
 world80.log4j.binaryedge.io
 requestbin.net
-.*\.requestbin\.net
 rce.ee
-.*\.rce\.ee
 ceye.io
-.*\.ceye\.io
 log4shell.huntress.com
+
 #C2 for cryptominers:
 bernais.axfor.com
+
 #Khonsari ransomware:
 test.verble.rocks
 
