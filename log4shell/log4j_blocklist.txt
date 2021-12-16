@@ -30,3 +30,5 @@ ceye.io
 log4shell.huntress.com
 #C2 for cryptominers:
 bernais.axfor.com
+#Khonsari ransomware:
+test.verble.rocks
